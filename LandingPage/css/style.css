@@ -1,0 +1,23 @@
+
+#list1 ul
+{
+    list-style-type: none;
+    margin-top: 50px;
+}
+#list2 ul li:nth-child(1), #list3 ul li:nth-child(1){
+    list-style-type: none;
+}
+#list1 ul li img
+{
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
+#regForm
+{
+    background-color: red;
+}
+lable
+{
+    color: white;
+}
